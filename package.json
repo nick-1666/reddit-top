@@ -1,0 +1,20 @@
+{
+  "name": "reddit-top",
+  "version": "1.0.0",
+  "description": "A tiny - and i mean tiny - api for getting the top post of a subreddit and its data.",
+  "license": "MIT",
+  "repository": "nick-1666/reddit-top",
+  "main": "index.js",
+  "keywords": [
+    "nick-1666",
+    "reddit-top",
+    "reddit",
+    "subreddit",
+    "api",
+    "npm",
+    "package"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
